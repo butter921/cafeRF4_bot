@@ -65,7 +65,7 @@ Telegram-бот для тех, кто качает кафе в **Russian Fishing
 
 | Главное меню | Активные заказы | Таймеры |
 |---|---|---|
-| `docs/menu.png` | `docs/active.png` | `docs/timers.png` |
+| ![Главное меню](docs/menu.png) | ![Активные заказы](docs/active.png) | ![Таймеры](docs/timers.jpg) |
 
 ---
 
